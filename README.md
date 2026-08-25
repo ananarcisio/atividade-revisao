@@ -1,6 +1,6 @@
 # Atividades Práticas: Estruturas de Sistemas em Java
 
-Este repositório contém a resolução de três atividades práticas focadas no desenvolvimento de lógica de negócios, POO (Programação Orientada a Objetos) e estruturação de dados utilizando a IDE **IntelliJ IDEA**.
+Este repositório contém a resolução de quatro atividades práticas focadas no desenvolvimento de lógica de negócios, POO (Programação Orientada a Objetos) e estruturação de dados utilizando a IDE **IntelliJ IDEA**.
 
 🛠️ Descrição das Atividades
 ⛽ Questão 1 - Sistema de Abastecimento
